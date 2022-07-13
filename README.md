@@ -1,4 +1,5 @@
-javascript-challenge
+Workday Scheduler
+
 --- Overview 
 I have created a simple calendar that allows users to save event for each hour of the day. I have also added a "Add to Calendar" for users to not only organize their schedule, but make appointments as well. 
 
